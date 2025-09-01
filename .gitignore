@@ -12,3 +12,4 @@ venv/
 
 # LangGraph generated stuff
 .langgraph_api/
+frontend
